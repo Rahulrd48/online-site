@@ -1,0 +1,158 @@
+/* CSS Document */
+.header{
+height:300px;
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+border:#FF0000 solid;
+}
+.h1{
+height:250px;
+width:1000px;
+}
+.logo{
+height:250px;
+width:300px;
+float:left;
+}
+.name{
+height:250px;
+width:700px;
+float:right;
+background-color:#99FF66;
+}
+.n{
+position:relative;
+top:100px;
+left:250px;
+font-family:"Courier New";
+font-size:36px;
+color:#CC3300;}
+.m{
+height:50px;
+width:1000px;
+background-color:#999999;
+}
+.m ul{
+margin:0px;
+padding:0px;
+}
+.m li{
+display:inline;
+padding:50px;
+}
+.m a{
+text-decoration:none;
+font-size:22px;
+color:#FFFFFF;}
+
+.footer{
+height:50px;
+width:1000px;
+margin-left:auto;
+margin-right: auto;
+border:#FF0000 solid;
+}
+.copy{
+height:50px;
+width:1000px;
+float:left;
+font-family:"Courier New";
+font-size: 36px;
+text-align:center;
+background-color:#FFCC99;
+}
+.home{
+height:500px;
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+background-color:#FFFF99;
+border:#66FF00 solid;
+}
+.h{
+height:100px;
+width:1000px;
+float:left;
+text-align:center;
+text-decoration:underline;
+}
+.content{
+height:200px;
+width:1000px;
+float:left;
+font-family:Arial;
+font-size:24px;
+color: #FF0000;
+text-align:justify;
+}
+.content a{
+text-decoration:none;
+font-family:Verdana;
+color:#CC3399;}
+.image{
+height:200px;
+width:1000px;
+float:left;}
+.a{
+border:#CC0000 dashed;
+border-radius:10px;}
+.about{
+height:500px;
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+background-image:url(../images/3.jpg);
+background-position:center;
+background-size:cover;
+border: #009933 solid;
+}
+.im1{
+float:left;
+}
+.im2{
+float:right;
+}
+.im3{
+float:left;
+}
+.im4{
+float:right;
+}
+.service{
+height:500px;
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+}
+.contact{
+height:500px;
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+border:#FFFF00 solid;
+}
+.ad{
+height:250px;
+width:1000px;
+float:left;
+text-align:center;
+background-color:#99CCCC;
+}
+.map{
+float:left;}
+.register{
+height:500px;
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+border: #CC3333 solid;
+
+}
+.register form{
+padding-left:400px;}
+.register label{
+font-size:24px;
+}
+.register input{
+padding-left:20px;}
